@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nebulous12(Steve Daniel)
+- 👋 Hi, I’m @Nebulous12(Steve Daniel) & I'm a college student of '25 batch.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I have done Front-end(HTML,CSS&JS) till now.
